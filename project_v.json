@@ -1,0 +1,14 @@
+{
+  "name": "Ejemplos",
+  "description": "Project Ping",
+  "main": "C:\\Users\\Karlos\\AppData\\Local\\UiPath\\app-18.1.0\\Library\\Samples\\Calculator Automation.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*pass***"
+  ],
+  "toolVersion": "18.1.0.153",
+  "projectVersion": "1.0.6610.33082",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
